@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ee2206c3149ab991","type":"file","file":"1_Notes/connectx_master_design.md","x":-380,"y":300,"width":400,"height":400},
+		{"id":"30fb7add2fa97819","type":"file","file":"1_Notes/connectx_master.md","x":-380,"y":-180,"width":400,"height":400},
+		{"id":"54c4d9bbbcc9d899","type":"file","file":"1_Notes/connectx_ap01_alpha_beta.md","x":300,"y":-620,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3ffe4026d65f32e8","fromNode":"30fb7add2fa97819","fromSide":"right","toNode":"54c4d9bbbcc9d899","toSide":"left"}
+	]
+}

@@ -1,0 +1,34 @@
+/*
+ * Fix: Primary theme canvas colors + canvas edges/arrows
+ * Dùng !important để đảm bảo override hoàn toàn theme Primary.
+ */
+
+/* ── Light theme ── */
+body.theme-light {
+  --canvas-color:   rgb(182, 175, 166) !important;
+  --canvas-color-1: rgb(223, 90, 90)   !important;
+  --canvas-color-2: rgb(231, 130, 63)  !important;
+  --canvas-color-3: rgb(248, 197, 46)  !important;
+  --canvas-color-4: rgb(87, 185, 132)  !important;
+  --canvas-color-5: rgb(99, 164, 198)  !important;
+  --canvas-color-6: rgb(135, 106, 193) !important;
+}
+
+/* ── Dark theme ── */
+body.theme-dark {
+  --canvas-color:   rgb(166, 150, 142) !important;
+  --canvas-color-1: rgb(228, 87, 78)   !important;
+  --canvas-color-2: rgb(238, 163, 89)  !important;
+  --canvas-color-3: rgb(249, 207, 81)  !important;
+  --canvas-color-4: rgb(100, 194, 113) !important;
+  --canvas-color-5: rgb(99, 156, 192)  !important;
+  --canvas-color-6: rgb(139, 113, 185) !important;
+}
+
+/* ── Khi node/edge được chọn màu cụ thể ── */
+.mod-canvas-color-1 { --canvas-color: var(--canvas-color-1) !important; }
+.mod-canvas-color-2 { --canvas-color: var(--canvas-color-2) !important; }
+.mod-canvas-color-3 { --canvas-color: var(--canvas-color-3) !important; }
+.mod-canvas-color-4 { --canvas-color: var(--canvas-color-4) !important; }
+.mod-canvas-color-5 { --canvas-color: var(--canvas-color-5) !important; }
+.mod-canvas-color-6 { --canvas-color: var(--canvas-color-6) !important; }

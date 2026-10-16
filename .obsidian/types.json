@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "created": "date",
+    "category": "multitext",
+    "subject": "multitext",
+    "Giảng viên": "multitext",
+    "Mã LHP": "text",
+    "Lịch và giờ học": "multitext",
+    "Địa điểm": "multitext",
+    "Điểm": "number",
+    "Đề tài": "multitext",
+    "project": "multitext",
+    "day_start": "date",
+    "day_end": "date",
+    "rating": "number",
+    "people": "multitext",
+    "location": "multitext",
+    "year": "multitext",
+    "status": "multitext",
+    "date_read": "date"
+  }
+}

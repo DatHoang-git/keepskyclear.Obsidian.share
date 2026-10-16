@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "/home/dathoang/.venvs/obsidian-python/bin/python",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python (obsidian-python)",
+  "language": "python",
+  "metadata": {
+    "jupymd": {
+      "managed": true,
+      "interpreter": "/home/dathoang/.venvs/obsidian-python/bin/python"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "autoSync": true,
+  "bidirectionalSync": false,
+  "autoConvertToNotebookOnRun": true,
+  "toolingPython": "/home/dathoang/.venvs/obsidian-python/bin/python",
+  "notebookEditorCommand": "jupyter-lab",
+  "enableCodeBlocks": true
+}

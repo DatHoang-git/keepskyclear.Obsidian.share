@@ -1,0 +1,12 @@
+{
+  "nativeMenus": false,
+  "showRibbon": false,
+  "showViewHeader": false,
+  "cssTheme": "Primary",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "zotero-colors",
+    "fix-primary-canvas-colors"
+  ],
+  "theme": "obsidian"
+}

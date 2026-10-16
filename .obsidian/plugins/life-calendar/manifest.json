@@ -1,0 +1,10 @@
+{
+  "id": "life-calendar",
+  "name": "Life Calendar",
+  "version": "1.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Render a life-in-weeks (memento mori) calendar with work, life, and other planning phases, plus linked key events.",
+  "author": "Paulo Ferreira",
+  "authorUrl": "https://pauloferreira.me",
+  "isDesktopOnly": false
+}

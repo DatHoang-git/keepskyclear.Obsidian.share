@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b52c40efb40f510e","type":"group","x":140,"y":-100,"width":600,"height":790,"color":"4","label":"OSI MODEL"},
+		{"id":"ed2177d5757e9cb1","type":"text","text":"# Presentation Layer","x":180,"y":70,"width":500,"height":70,"color":"2"},
+		{"id":"d8c4d1d9c1cc4c43","type":"file","file":"1_Notes/TỔNG QUAN VỀ MẠNG MÁY TÍNH.md","x":-660,"y":230,"width":480,"height":280,"color":"5"},
+		{"id":"33701019d0d2731e","type":"text","text":"> *Mạng được cấu tạo như củ hành, thông tin được **bên gửi** gói bằng nhiều lớp (header) chồng lên nhau và gửi đi tới **bên nhận**. Bên nhận lần lượt bóc từng lớp và nhận thông tin bên trong *","x":-660,"y":520,"width":480,"height":140,"color":"4"},
+		{"id":"08827741614d8914","type":"file","file":"3_Assets/Pasted image 20260810155303.png","x":-654,"y":-120,"width":474,"height":220},
+		{"id":"037d7b554044f99e","type":"text","text":"# Session Layer","x":180,"y":140,"width":500,"height":70,"color":"2"},
+		{"id":"ff335e7aa14a27b6","type":"file","file":"1_Notes/TẦNG GIAO VẬN.md","x":180,"y":240,"width":500,"height":60,"color":"5"},
+		{"id":"2782e613ef0072e9","type":"file","file":"1_Notes/TẦNG LIÊN KẾT DỮ LIỆU VÀ MẠNG LAN - LINK LAYER.md","x":180,"y":500,"width":500,"height":80,"color":"5"},
+		{"id":"67b369000df3e3c9","type":"text","text":"# TẦNG VẬT LÝ - Ko học vì đơn giản","x":180,"y":600,"width":500,"height":50,"color":"5"},
+		{"id":"46d3398ebb753ebc","type":"file","file":"1_Notes/TẦNG ỨNG DỤNG.md","x":180,"y":-30,"width":500,"height":60,"color":"5"},
+		{"id":"79b8e81e7c4a088b","type":"file","file":"1_Notes/TẦNG MẠNG (NETWORK) - CONTROL PLANE.md","x":420,"y":340,"width":260,"height":120,"color":"5"},
+		{"id":"a343eb59461fe68c","type":"file","file":"1_Notes/TẦNG MẠNG (NETWORK) - DATA PLANE.md","x":180,"y":340,"width":240,"height":120,"color":"5"}
+	],
+	"edges":[
+		{"id":"bad7fa0f77575570","fromNode":"d8c4d1d9c1cc4c43","fromSide":"right","toNode":"b52c40efb40f510e","toSide":"left","color":"2","label":"học về 7 (5)\n\"lớp vỏ\""}
+	]
+}

@@ -1,0 +1,34 @@
+/* Màu sắc chuẩn từ Zotero 6/7 */
+.callout[data-callout-metadata="Yellow" i] {
+    --callout-color: 255, 212, 0;
+}
+
+.callout[data-callout-metadata="Red" i] {
+    --callout-color: 255, 102, 102;
+}
+
+.callout[data-callout-metadata="Green" i] {
+    --callout-color: 95, 178, 54;
+}
+
+.callout[data-callout-metadata="Blue" i] {
+    --callout-color: 46, 168, 229;
+}
+
+.callout[data-callout-metadata="Purple" i] {
+    --callout-color: 162, 138, 229;
+}
+
+.callout[data-callout-metadata="Magenta" i] {
+    --callout-color: 229, 110, 238;
+}
+
+.callout[data-callout-metadata="Orange" i] {
+    --callout-color: 241, 152, 55;
+}
+
+.callout[data-callout-metadata="Gray" i] {
+    --callout-color: 170, 170, 170;
+}
+
+

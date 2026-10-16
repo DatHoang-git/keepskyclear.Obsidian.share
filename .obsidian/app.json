@@ -1,0 +1,22 @@
+{
+  "showLineNumber": false,
+  "spellcheck": false,
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1_Notes",
+  "attachmentFolderPath": "3_Assets",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 84
+  },
+  "promptDelete": false,
+  "hardwareAcceleration": true,
+  "openBehavior": ""
+}

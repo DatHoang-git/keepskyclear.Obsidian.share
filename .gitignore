@@ -1,0 +1,8 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# Temporary Obsidian files
+.obsidian/workspace-mobile.json

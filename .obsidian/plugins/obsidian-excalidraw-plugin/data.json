@@ -1,0 +1,1366 @@
+{
+  "showTabTitlebarButtons": true,
+  "copyLinkToElemenetAnchorTo100": true,
+  "copyFrameLinkByName": true,
+  "disableDoubleClickTextEditing": false,
+  "phoneFooterSafeAreaPadding": false,
+  "tabletFooterSafeAreaPadding": false,
+  "folder": "Excalidraw",
+  "libraryFolderPath": "Excalidraw/Libraries",
+  "libraryFileName": "local-library",
+  "libraryStorageMode": "vault",
+  "libraryMigrationStatus": "completed",
+  "libraryMigrationSnoozeUntil": 0,
+  "cropFolder": "",
+  "annotateFolder": "3_Assets",
+  "embedUseExcalidrawFolder": false,
+  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "Excalidraw/Scripts",
+  "allowJavaScriptFiles": false,
+  "storeScriptFilesAsJavaScript": false,
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
+  "compress": true,
+  "decompressForMDView": false,
+  "onceOffCompressFlagReset": true,
+  "autosaveIntervalDesktop": 60000,
+  "autosaveIntervalMobile": 30000,
+  "drawingFilenamePrefix": "Drawing ",
+  "drawingEmbedPrefixWithFilename": true,
+  "drawingFilnameEmbedPostfix": " ",
+  "drawingFilenameDateTime": "",
+  "useExcalidrawExtension": true,
+  "cropSuffix": "",
+  "cropPrefix": "cropped_",
+  "annotateSuffix": "",
+  "annotatePrefix": "annotated_",
+  "annotatePreserveSize": false,
+  "displaySVGInPreview": false,
+  "previewImageType": "SVGIMG",
+  "renderingConcurrency": 3,
+  "imageCacheRetentionDays": 30,
+  "allowImageCache": true,
+  "allowImageCacheInScene": true,
+  "displayExportedImageIfAvailable": false,
+  "previewMatchObsidianTheme": false,
+  "width": "60%",
+  "height": "",
+  "overrideObsidianFontSize": false,
+  "dynamicStyling": "colorful",
+  "isLeftHanded": false,
+  "desktopUIMode": "tray",
+  "tabletUIMode": "tray",
+  "phoneUIMode": "mobile",
+  "iframeMatchExcalidrawTheme": true,
+  "matchTheme": false,
+  "matchThemeAlways": false,
+  "matchThemeTrigger": false,
+  "defaultMode": "normal",
+  "defaultPenMode": "always",
+  "penModeDoubleTapEraser": false,
+  "penModeSingleFingerPanning": true,
+  "penModeCrosshairVisible": true,
+  "renderImageInMarkdownReadingMode": false,
+  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInMarkdownToPDF": false,
+  "allowPinchZoom": false,
+  "allowWheelZoom": false,
+  "zoomToFitOnOpen": true,
+  "zoomToFitOnResize": false,
+  "zoomToFitMaxLevel": 2,
+  "zoomStep": 0.05,
+  "zoomMin": 0.1,
+  "zoomMax": 30,
+  "linkPrefix": "📍",
+  "urlPrefix": "🌐",
+  "parseTODO": false,
+  "todo": "☐",
+  "done": "🗹",
+  "hoverPreviewWithoutCTRL": false,
+  "linkOpacity": 1,
+  "openInAdjacentPane": true,
+  "showSecondOrderLinks": true,
+  "focusOnFileTab": true,
+  "openInMainWorkspace": true,
+  "showLinkBrackets": false,
+  "syncElementLinkWithText": false,
+  "allowCtrlClick": true,
+  "forceWrap": false,
+  "pageTransclusionCharLimit": 200,
+  "wordWrappingDefault": 0,
+  "removeTransclusionQuoteSigns": true,
+  "oEmbedAllowed": false,
+  "pngExportScale": 1,
+  "exportWithTheme": true,
+  "exportWithBackground": true,
+  "exportPaddingSVG": 5,
+  "exportEmbedScene": true,
+  "keepInSync": false,
+  "autoexportSVG": false,
+  "autoexportPNG": false,
+  "autoExportLightAndDark": false,
+  "autoexportExcalidraw": false,
+  "embedType": "excalidraw",
+  "embedMarkdownCommentLinks": true,
+  "embedWikiLink": true,
+  "embedPlaceholderImage": true,
+  "syncExcalidraw": false,
+  "experimentalFileType": false,
+  "experimentalFileTag": "✏️",
+  "experimentalLivePreview": true,
+  "fadeOutExcalidrawMarkup": false,
+  "loadPropertySuggestions": false,
+  "experimentalEnableFourthFont": true,
+  "experimantalFourthFont": "Excalidraw/DFVNExcalifont/DFVN-Excalifont.ttf",
+  "addDummyTextElement": false,
+  "zoteroCompatibility": false,
+  "fieldSuggester": true,
+  "enableOnloadScripts": false,
+  "enableCommandLinks": false,
+  "compatibilityMode": false,
+  "drawingOpenCount": 0,
+  "library": "deprecated",
+  "library2": {
+    "type": "excalidrawlib",
+    "version": 2,
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.26.4",
+    "libraryItems": []
+  },
+  "imageElementNotice": true,
+  "mdSVGwidth": 500,
+  "mdSVGmaxHeight": 800,
+  "mdFont": "Excalidraw/DFVNExcalifont/DFVN-Excalifont.ttf",
+  "mdFontColor": "Black",
+  "mdBorderColor": "Black",
+  "mdCSS": "",
+  "markdownImageSettings": {
+    "defaults": {
+      "width": 500,
+      "paddingBottom": 10,
+      "fontFamily": "Excalidraw/DFVNExcalifont/DFVN-Excalifont.ttf",
+      "fontColor": "Black",
+      "border": {
+        "enabled": false,
+        "color": "Black"
+      },
+      "css": "",
+      "transclusion": {
+        "enabled": false,
+        "fontFamily": "Cascadia",
+        "fontColor": "Black",
+        "border": {
+          "enabled": false,
+          "color": "Black"
+        },
+        "css": ""
+      }
+    }
+  },
+  "markdownImageDeletionPreference": "ask",
+  "scriptEngineSettings": {
+    "Downloaded/Printable Layout Wizard": {
+      "Page size": {
+        "value": "A4",
+        "valueset": [
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "Letter",
+          "Legal",
+          "Tabloid",
+          "Ledger"
+        ]
+      },
+      "Page orientation": {
+        "value": "portrait",
+        "valueset": [
+          "portrait",
+          "landscape"
+        ]
+      },
+      "Print-margin": {
+        "value": "none",
+        "valueset": [
+          "none",
+          "tiny",
+          "normal"
+        ]
+      },
+      "Should zoom after adding page": {
+        "value": false
+      },
+      "Should close after adding page": {
+        "value": false
+      },
+      "Lock frame after it is created": {
+        "value": true
+      },
+      "Print empty pages": {
+        "value": false
+      },
+      "Print only marker frames": {
+        "value": true
+      }
+    },
+    "Downloaded/Mindmap Builder": {
+      "Layout Config": {
+        "value": {
+          "GAP_X": 120,
+          "GAP_Y": 25,
+          "GAP_MULTIPLIER": 0.6,
+          "ROOT_RADIUS_FACTOR": 0.8,
+          "MIN_RADIUS": 350,
+          "RADIAL_ASPECT_RATIO": 0.7,
+          "RADIAL_POLE_GAP_BONUS": 2,
+          "RADIAL_START_ANGLE": 280,
+          "RADIAL_MAX_SWEEP": 340,
+          "DIRECTIONAL_ARC_SPAN_RADIANS": 1,
+          "GAP_MULTIPLIER_DIRECTIONAL": 1.5,
+          "RADIUS_PADDING_PER_NODE": 7,
+          "VERTICAL_SUBTREE_WIDTH_BLEND_SINGLE": 0.35,
+          "VERTICAL_SUBTREE_WIDTH_BLEND_DUAL": 0.6,
+          "VERTICAL_SUBTREE_SMOOTH_THRESHOLD_MULTIPLIER": 6,
+          "VERTICAL_SUBTREE_SMOOTH_MIN_SCALE": 240,
+          "HORIZONTAL_L1_SOFTCAP_THRESHOLD": 560,
+          "HORIZONTAL_L1_COMPRESSION_MIN_SCALE": 240,
+          "VERTICAL_COMPACT_PARENT_CHILD_GAP_RATIO": 0.55,
+          "DIRECTIONAL_CROSS_AXIS_RATIO": 0.2,
+          "INDICATOR_OFFSET": 10,
+          "INDICATOR_OPACITY": 40,
+          "CONTAINER_PADDING": 10,
+          "MAX_SEGMENT_LENGTH": 80,
+          "MANUAL_GAP_MULTIPLIER": 1.3,
+          "MANUAL_JITTER_RANGE": 300
+        },
+        "hidden": true
+      },
+      "Group Branches": {
+        "value": false,
+        "hidden": false
+      },
+      "Is Undocked": {
+        "value": false,
+        "hidden": false
+      },
+      "Rounded Corners": {
+        "value": false,
+        "hidden": false
+      },
+      "Box Children": {
+        "value": false,
+        "hidden": false
+      },
+      "Growth Mode": {
+        "value": "Right-facing",
+        "valueset": [
+          "Radial",
+          "Right-facing",
+          "Left-facing",
+          "Right-Left",
+          "Up-facing",
+          "Down-facing",
+          "Up-Down"
+        ]
+      },
+      "Fill Sweep": {
+        "value": true,
+        "hidden": false
+      },
+      "Font Sizes": {
+        "value": "Use scene fontsize",
+        "valueset": [
+          "Use scene fontsize",
+          "Fibonacci Scale",
+          "Normal Scale"
+        ]
+      },
+      "Active Preset": {
+        "value": "Default",
+        "hidden": false
+      },
+      "Arrow Type": {
+        "value": "curved",
+        "hidden": false
+      },
+      "Multicolor Mode": {
+        "value": true,
+        "hidden": false
+      },
+      "Max Text Width": {
+        "value": 450,
+        "hidden": false
+      },
+      "Arrow Stroke Style": {
+        "value": true,
+        "hidden": false
+      },
+      "Center text in nodes?": {
+        "value": true,
+        "hidden": false
+      },
+      "Branch Scale Style": {
+        "value": "Hierarchical",
+        "hidden": false
+      },
+      "Base Stroke Width": {
+        "value": 6,
+        "hidden": false
+      },
+      "Custom Palette": {
+        "value": {
+          "enabled": false,
+          "random": false,
+          "colors": []
+        },
+        "hidden": true
+      }
+    },
+    "Downloaded/Icon Library": {
+      "filters": [
+        {
+          "name": "Icon",
+          "pattern": "^icon - (.*?)(?: - [^-]+)?$",
+          "folderPattern": "",
+          "extensions": "",
+          "maxKb": ""
+        },
+        {
+          "name": "Stickfigure",
+          "pattern": "^stickfigure - (.*?)(?: - [^-]+)?$",
+          "folderPattern": "",
+          "extensions": "",
+          "maxKb": ""
+        },
+        {
+          "name": "Logo",
+          "pattern": "^logo - (.*?)(?: - [^-]+)?$",
+          "folderPattern": "",
+          "extensions": "",
+          "maxKb": ""
+        }
+      ],
+      "excludeFolders": "",
+      "defaultIconWidth": 180,
+      "thumbSize": 250,
+      "lightBgColor": "#FFFFFF60",
+      "darkBgColor": "#FFFFFF60",
+      "activeFilterNames": [
+        "Icon",
+        "Stickfigure",
+        "Logo"
+      ]
+    },
+    "Downloaded/Slideshow": {
+      "transitionStepCount": 100,
+      "transitionDelay": 500,
+      "frameSleep": 1,
+      "editZoomOut": 0.7,
+      "fadeLevel": 0.1,
+      "printSlideWidth": 1920,
+      "printSlideHeight": 1080,
+      "maxZoom": 30,
+      "slideshowStartMode": "beginning",
+      "slideshowWindowMode": "fullscreen",
+      "slideshowNotesMode": "slides",
+      "slideshowPresentationType": "frame",
+      "slideshowDisplayTargetsByDeviceConfiguration": {
+        "28768ff1-1890-41dd-8b7c-3aa1575c5bf5": {
+          "[\"[\\\"samsung display corp. 0x4154  (edp-1)\\\",1440,900,true]\"]": {
+            "presentationDisplayId": 71,
+            "presenterDisplayId": 71,
+            "presentationDisplayIdentity": "[\"samsung display corp. 0x4154  (edp-1)\",1440,900,true]",
+            "presenterDisplayIdentity": "[\"samsung display corp. 0x4154  (edp-1)\",1440,900,true]"
+          }
+        }
+      }
+    },
+    "Downloaded/Color Scheme Manager": {
+      "Saved Schemes (JSON)": {
+        "value": "[{\"name\":\"Oracle Redwood\",\"category\":\"Cloud Providers\",\"stroke\":\"#C74634\",\"fill\":\"#1B8271\",\"bg\":\"#ffffff\",\"accents\":[\"#C74634\",\"#A8392B\",\"#E07A6E\",\"#F1B13F\",\"#7A2E20\",\"#1B8271\",\"#3FA98E\",\"#0F5E50\",\"#2E7D5B\",\"#3C4545\"]},{\"name\":\"AWS\",\"category\":\"Cloud Providers\",\"stroke\":\"#FF9900\",\"fill\":\"#232F3E\",\"bg\":\"#ffffff\",\"accents\":[\"#FF9900\",\"#EC7211\",\"#FFAC31\",\"#232F3E\",\"#146EB4\",\"#1A476F\",\"#2E73B8\",\"#D45B07\",\"#37475A\",\"#879196\"]},{\"name\":\"Microsoft Azure\",\"category\":\"Cloud Providers\",\"stroke\":\"#0078D4\",\"fill\":\"#50E6FF\",\"bg\":\"#ffffff\",\"accents\":[\"#0078D4\",\"#50E6FF\",\"#0063B1\",\"#243A5E\",\"#00BCF2\",\"#005BA1\",\"#40A9FF\",\"#6CB8F6\",\"#1B3A57\",\"#8AC7FF\"]},{\"name\":\"Google Cloud\",\"category\":\"Cloud Providers\",\"stroke\":\"#4285F4\",\"fill\":\"#34A853\",\"bg\":\"#ffffff\",\"accents\":[\"#4285F4\",\"#EA4335\",\"#FBBC04\",\"#34A853\",\"#1A73E8\",\"#D93025\",\"#F9AB00\",\"#188038\",\"#1967D2\",\"#5BB974\"]},{\"name\":\"IBM Cloud\",\"category\":\"Cloud Providers\",\"stroke\":\"#0F62FE\",\"fill\":\"#78A9FF\",\"bg\":\"#ffffff\",\"accents\":[\"#0F62FE\",\"#4589FF\",\"#001D6C\",\"#0043CE\",\"#78A9FF\",\"#002D9C\",\"#A6C8FF\",\"#001141\",\"#0353E9\",\"#393939\"]},{\"name\":\"DigitalOcean\",\"category\":\"Cloud Providers\",\"stroke\":\"#0069FF\",\"fill\":\"#3D9BFF\",\"bg\":\"#ffffff\",\"accents\":[\"#0069FF\",\"#0080FF\",\"#0061EB\",\"#031B4E\",\"#3D9BFF\",\"#004FC4\",\"#66B3FF\",\"#022B6B\",\"#1A8CFF\",\"#13294B\"]},{\"name\":\"Alibaba Cloud\",\"category\":\"Cloud Providers\",\"stroke\":\"#FF6A00\",\"fill\":\"#FFA866\",\"bg\":\"#ffffff\",\"accents\":[\"#FF6A00\",\"#FF8C33\",\"#E85D00\",\"#1F1F1F\",\"#FFA866\",\"#C24A00\",\"#FFB680\",\"#3C3C3C\",\"#FF7A1A\",\"#5C5C5C\"]},{\"name\":\"Nord\",\"category\":\"Code Editors\",\"stroke\":\"#5E81AC\",\"fill\":\"#88C0D0\",\"bg\":\"#ffffff\",\"accents\":[\"#5E81AC\",\"#81A1C1\",\"#88C0D0\",\"#8FBCBB\",\"#A3BE8C\",\"#B48EAD\",\"#BF616A\",\"#D08770\",\"#EBCB8B\",\"#4C566A\"]},{\"name\":\"Dracula\",\"category\":\"Code Editors\",\"stroke\":\"#BD93F9\",\"fill\":\"#8BE9FD\",\"bg\":\"#ffffff\",\"accents\":[\"#BD93F9\",\"#FF79C6\",\"#8BE9FD\",\"#50FA7B\",\"#FFB86C\",\"#FF5555\",\"#F1FA8C\",\"#6272A4\",\"#44475A\",\"#282A36\"]},{\"name\":\"Solarized\",\"category\":\"Code Editors\",\"stroke\":\"#268BD2\",\"fill\":\"#2AA198\",\"bg\":\"#ffffff\",\"accents\":[\"#268BD2\",\"#2AA198\",\"#859900\",\"#B58900\",\"#CB4B16\",\"#DC322F\",\"#D33682\",\"#6C71C4\",\"#586E75\",\"#657B83\"]},{\"name\":\"Monokai\",\"category\":\"Code Editors\",\"stroke\":\"#F92672\",\"fill\":\"#A6E22E\",\"bg\":\"#ffffff\",\"accents\":[\"#F92672\",\"#A6E22E\",\"#FD971F\",\"#66D9EF\",\"#AE81FF\",\"#E6DB74\",\"#75715E\",\"#F8F8F2\",\"#272822\",\"#49483E\"]},{\"name\":\"Gruvbox\",\"category\":\"Code Editors\",\"stroke\":\"#FB4934\",\"fill\":\"#B8BB26\",\"bg\":\"#ffffff\",\"accents\":[\"#FB4934\",\"#B8BB26\",\"#FABD2F\",\"#83A598\",\"#D3869B\",\"#8EC07C\",\"#FE8019\",\"#928374\",\"#282828\",\"#EBDBB2\"]},{\"name\":\"One Dark\",\"category\":\"Code Editors\",\"stroke\":\"#61AFEF\",\"fill\":\"#98C379\",\"bg\":\"#ffffff\",\"accents\":[\"#61AFEF\",\"#E06C75\",\"#98C379\",\"#E5C07B\",\"#C678DD\",\"#56B6C2\",\"#ABB2BF\",\"#5C6370\",\"#282C34\",\"#D19A66\"]},{\"name\":\"Tokyo Night\",\"category\":\"Code Editors\",\"stroke\":\"#7AA2F7\",\"fill\":\"#BB9AF7\",\"bg\":\"#ffffff\",\"accents\":[\"#7AA2F7\",\"#BB9AF7\",\"#7DCFFF\",\"#9ECE6A\",\"#E0AF68\",\"#F7768E\",\"#2AC3DE\",\"#73DACA\",\"#1A1B26\",\"#A9B1D6\"]},{\"name\":\"Catppuccin\",\"category\":\"Code Editors\",\"stroke\":\"#CBA6F7\",\"fill\":\"#89B4FA\",\"bg\":\"#ffffff\",\"accents\":[\"#CBA6F7\",\"#F5C2E7\",\"#89B4FA\",\"#94E2D5\",\"#A6E3A1\",\"#F9E2AF\",\"#FAB387\",\"#EBA0AC\",\"#1E1E2E\",\"#CDD6F4\"]},{\"name\":\"Ayu\",\"category\":\"Code Editors\",\"stroke\":\"#FF8F40\",\"fill\":\"#59C2FF\",\"bg\":\"#ffffff\",\"accents\":[\"#FF8F40\",\"#FFB454\",\"#59C2FF\",\"#AAD94C\",\"#D2A6FF\",\"#F07178\",\"#39BAE6\",\"#95E6CB\",\"#0B0E14\",\"#BFBDB6\"]},{\"name\":\"GitHub\",\"category\":\"Tech Brands\",\"stroke\":\"#24292F\",\"fill\":\"#0969DA\",\"bg\":\"#ffffff\",\"accents\":[\"#0969DA\",\"#1F883D\",\"#CF222E\",\"#BF8700\",\"#8250DF\",\"#24292F\",\"#0D1117\",\"#57606A\",\"#2DA44E\",\"#BC4C00\"]},{\"name\":\"Slack\",\"category\":\"Tech Brands\",\"stroke\":\"#4A154B\",\"fill\":\"#36C5F0\",\"bg\":\"#ffffff\",\"accents\":[\"#4A154B\",\"#36C5F0\",\"#2EB67D\",\"#ECB22E\",\"#E01E5A\",\"#611F69\",\"#1264A3\",\"#350D36\",\"#1D1C1D\",\"#7C2855\"]},{\"name\":\"Spotify\",\"category\":\"Tech Brands\",\"stroke\":\"#1DB954\",\"fill\":\"#1ED760\",\"bg\":\"#ffffff\",\"accents\":[\"#1DB954\",\"#1ED760\",\"#1AA34A\",\"#121212\",\"#535353\",\"#2EBD59\",\"#404040\",\"#191414\",\"#7F7F7F\",\"#B3B3B3\"]},{\"name\":\"Discord\",\"category\":\"Tech Brands\",\"stroke\":\"#5865F2\",\"fill\":\"#57F287\",\"bg\":\"#ffffff\",\"accents\":[\"#5865F2\",\"#57F287\",\"#FEE75C\",\"#EB459E\",\"#ED4245\",\"#404EED\",\"#3BA55D\",\"#2C2F33\",\"#23272A\",\"#99AAB5\"]},{\"name\":\"Stripe\",\"category\":\"Tech Brands\",\"stroke\":\"#635BFF\",\"fill\":\"#00D4FF\",\"bg\":\"#ffffff\",\"accents\":[\"#635BFF\",\"#00D4FF\",\"#0A2540\",\"#7A73FF\",\"#11EFE3\",\"#425466\",\"#96A0B5\",\"#3A3D5C\",\"#1A1F36\",\"#8C9EFF\"]},{\"name\":\"Figma\",\"category\":\"Tech Brands\",\"stroke\":\"#F24E1E\",\"fill\":\"#A259FF\",\"bg\":\"#ffffff\",\"accents\":[\"#F24E1E\",\"#A259FF\",\"#1ABCFE\",\"#0ACF83\",\"#FF7262\",\"#7B61FF\",\"#0FA958\",\"#2C2C2C\",\"#1E1E1E\",\"#E5E5E5\"]},{\"name\":\"Twitch\",\"category\":\"Tech Brands\",\"stroke\":\"#9146FF\",\"fill\":\"#A970FF\",\"bg\":\"#ffffff\",\"accents\":[\"#9146FF\",\"#772CE8\",\"#BF94FF\",\"#A970FF\",\"#E2D9F3\",\"#5C16C5\",\"#392E5C\",\"#18181B\",\"#0E0E10\",\"#EFEFF1\"]},{\"name\":\"Netflix\",\"category\":\"Tech Brands\",\"stroke\":\"#E50914\",\"fill\":\"#B1060F\",\"bg\":\"#ffffff\",\"accents\":[\"#E50914\",\"#B1060F\",\"#831010\",\"#564D4D\",\"#221F1F\",\"#E50914\",\"#737373\",\"#000000\",\"#B9090B\",\"#F5F5F1\"]},{\"name\":\"Firefox\",\"category\":\"Tech Brands\",\"stroke\":\"#FF9400\",\"fill\":\"#9059FF\",\"bg\":\"#ffffff\",\"accents\":[\"#FF9400\",\"#FF2A6D\",\"#9059FF\",\"#00B3F4\",\"#0090ED\",\"#FF6C00\",\"#B833E1\",\"#20123A\",\"#311A75\",\"#FFD567\"]},{\"name\":\"Notion\",\"category\":\"Tech Brands\",\"stroke\":\"#191919\",\"fill\":\"#EB5757\",\"bg\":\"#ffffff\",\"accents\":[\"#191919\",\"#EB5757\",\"#F2C94C\",\"#6FCF97\",\"#2F80ED\",\"#9B51E0\",\"#2F3437\",\"#828282\",\"#E0E0E0\",\"#56CCF2\"]},{\"name\":\"Material\",\"category\":\"Design Systems\",\"stroke\":\"#2196F3\",\"fill\":\"#F44336\",\"bg\":\"#ffffff\",\"accents\":[\"#2196F3\",\"#F44336\",\"#4CAF50\",\"#FF9800\",\"#9C27B0\",\"#00BCD4\",\"#FFEB3B\",\"#795548\",\"#607D8B\",\"#E91E63\"]},{\"name\":\"Tailwind\",\"category\":\"Design Systems\",\"stroke\":\"#3B82F6\",\"fill\":\"#22C55E\",\"bg\":\"#ffffff\",\"accents\":[\"#3B82F6\",\"#EF4444\",\"#22C55E\",\"#F59E0B\",\"#8B5CF6\",\"#06B6D4\",\"#EC4899\",\"#14B8A6\",\"#F97316\",\"#6366F1\"]},{\"name\":\"Bootstrap\",\"category\":\"Design Systems\",\"stroke\":\"#0D6EFD\",\"fill\":\"#6F42C1\",\"bg\":\"#ffffff\",\"accents\":[\"#0D6EFD\",\"#6610F2\",\"#6F42C1\",\"#D63384\",\"#DC3545\",\"#FD7E14\",\"#FFC107\",\"#198754\",\"#20C997\",\"#0DCAF0\"]},{\"name\":\"Fluent\",\"category\":\"Design Systems\",\"stroke\":\"#0078D4\",\"fill\":\"#107C10\",\"bg\":\"#ffffff\",\"accents\":[\"#0078D4\",\"#107C10\",\"#D13438\",\"#FFB900\",\"#5C2D91\",\"#008575\",\"#E3008C\",\"#004E8C\",\"#5C5C5C\",\"#323130\"]},{\"name\":\"Carbon\",\"category\":\"Design Systems\",\"stroke\":\"#0F62FE\",\"fill\":\"#6929C4\",\"bg\":\"#ffffff\",\"accents\":[\"#0F62FE\",\"#6929C4\",\"#1192E8\",\"#005D5D\",\"#9F1853\",\"#FA4D56\",\"#570408\",\"#198038\",\"#002D9C\",\"#EE538B\"]},{\"name\":\"Ant Design\",\"category\":\"Design Systems\",\"stroke\":\"#1677FF\",\"fill\":\"#52C41A\",\"bg\":\"#ffffff\",\"accents\":[\"#1677FF\",\"#F5222D\",\"#52C41A\",\"#FAAD14\",\"#722ED1\",\"#13C2C2\",\"#EB2F96\",\"#FA8C16\",\"#2F54EB\",\"#A0D911\"]},{\"name\":\"Ocean\",\"category\":\"Nature\",\"stroke\":\"#1E5F8C\",\"fill\":\"#5DADE2\",\"bg\":\"#ffffff\",\"accents\":[\"#1E5F8C\",\"#2E86C1\",\"#5DADE2\",\"#85C1E9\",\"#0E4D6E\",\"#21618C\",\"#2874A6\",\"#48A9C5\",\"#0B3954\",\"#AED6F1\"]},{\"name\":\"Forest\",\"category\":\"Nature\",\"stroke\":\"#1E5631\",\"fill\":\"#52B788\",\"bg\":\"#ffffff\",\"accents\":[\"#1E5631\",\"#2D6A4F\",\"#40916C\",\"#52B788\",\"#74C69D\",\"#95D5B2\",\"#B7E4C7\",\"#143620\",\"#2F8F5B\",\"#081C15\"]},{\"name\":\"Sunset\",\"category\":\"Nature\",\"stroke\":\"#D9480F\",\"fill\":\"#FFA552\",\"bg\":\"#ffffff\",\"accents\":[\"#D9480F\",\"#E8590C\",\"#F76707\",\"#FF922B\",\"#FFA552\",\"#FFC078\",\"#C92A2A\",\"#A61E22\",\"#FFD8A8\",\"#5C2018\"]},{\"name\":\"Autumn\",\"category\":\"Nature\",\"stroke\":\"#7C2D12\",\"fill\":\"#C2410C\",\"bg\":\"#ffffff\",\"accents\":[\"#7C2D12\",\"#9A3412\",\"#C2410C\",\"#EA580C\",\"#F97316\",\"#FB923C\",\"#B45309\",\"#92400E\",\"#D97706\",\"#451A03\"]},{\"name\":\"Desert\",\"category\":\"Nature\",\"stroke\":\"#A0522D\",\"fill\":\"#DEB887\",\"bg\":\"#ffffff\",\"accents\":[\"#A0522D\",\"#C19A6B\",\"#DEB887\",\"#E6CCAB\",\"#8B5A2B\",\"#B8860B\",\"#CD853F\",\"#D2B48C\",\"#6B4226\",\"#F5DEB3\"]},{\"name\":\"Arctic\",\"category\":\"Nature\",\"stroke\":\"#3A6EA5\",\"fill\":\"#A9D6E5\",\"bg\":\"#ffffff\",\"accents\":[\"#3A6EA5\",\"#61A5C2\",\"#89C2D9\",\"#A9D6E5\",\"#CAF0F8\",\"#2C7DA0\",\"#468FAF\",\"#013A63\",\"#01497C\",\"#E0FBFC\"]},{\"name\":\"Coral Reef\",\"category\":\"Nature\",\"stroke\":\"#FF6B6B\",\"fill\":\"#4ECDC4\",\"bg\":\"#ffffff\",\"accents\":[\"#FF6B6B\",\"#FF8E72\",\"#FFD166\",\"#4ECDC4\",\"#1A9E8F\",\"#F08A5D\",\"#B83B5E\",\"#6A2C70\",\"#FFB6A3\",\"#08807A\"]},{\"name\":\"Lavender\",\"category\":\"Nature\",\"stroke\":\"#7B5EA7\",\"fill\":\"#B39DDB\",\"bg\":\"#ffffff\",\"accents\":[\"#7B5EA7\",\"#9575CD\",\"#B39DDB\",\"#D1C4E9\",\"#5E35B1\",\"#673AB7\",\"#8E7CC3\",\"#4527A0\",\"#C5B3E6\",\"#311B92\"]},{\"name\":\"Teal\",\"category\":\"Solids\",\"stroke\":\"#0E7C7B\",\"fill\":\"#6CCED2\",\"bg\":\"#ffffff\",\"accents\":[\"#0E7C7B\",\"#0F9B9A\",\"#17B8B7\",\"#3FD0CE\",\"#6CCED2\",\"#0A5C5B\",\"#08403F\",\"#A0E8E6\",\"#127C77\",\"#053534\"]},{\"name\":\"Amber\",\"category\":\"Solids\",\"stroke\":\"#B8860B\",\"fill\":\"#FFD582\",\"bg\":\"#ffffff\",\"accents\":[\"#B8860B\",\"#D99E0B\",\"#F1B13F\",\"#FFC757\",\"#FFD582\",\"#946A00\",\"#6B4D00\",\"#FFE7B3\",\"#E0A106\",\"#4A3500\"]},{\"name\":\"Crimson\",\"category\":\"Solids\",\"stroke\":\"#A61E1E\",\"fill\":\"#FF8882\",\"bg\":\"#ffffff\",\"accents\":[\"#A61E1E\",\"#C62828\",\"#E53935\",\"#FF5F57\",\"#FF8882\",\"#7A1414\",\"#520C0C\",\"#FFB3AF\",\"#D32F2F\",\"#330808\"]},{\"name\":\"Violet\",\"category\":\"Solids\",\"stroke\":\"#5E35B1\",\"fill\":\"#D0BFFF\",\"bg\":\"#ffffff\",\"accents\":[\"#5E35B1\",\"#6741D9\",\"#7C4DFF\",\"#9D7BFF\",\"#D0BFFF\",\"#4527A0\",\"#311B92\",\"#E5DBFF\",\"#6A3FD9\",\"#1F0A5C\"]},{\"name\":\"Rose\",\"category\":\"Solids\",\"stroke\":\"#A61E4D\",\"fill\":\"#FCC2D7\",\"bg\":\"#ffffff\",\"accents\":[\"#A61E4D\",\"#C2255C\",\"#E64980\",\"#F783AC\",\"#FCC2D7\",\"#7A1538\",\"#520C25\",\"#FFE0EC\",\"#D6336C\",\"#330616\"]},{\"name\":\"Indigo\",\"category\":\"Solids\",\"stroke\":\"#283593\",\"fill\":\"#BAC8FF\",\"bg\":\"#ffffff\",\"accents\":[\"#283593\",\"#364FC7\",\"#4263EB\",\"#5C7CFA\",\"#BAC8FF\",\"#1D2769\",\"#101640\",\"#DBE4FF\",\"#3B5BDB\",\"#080B24\"]},{\"name\":\"Emerald\",\"category\":\"Solids\",\"stroke\":\"#0B6E4F\",\"fill\":\"#6EE7B7\",\"bg\":\"#ffffff\",\"accents\":[\"#0B6E4F\",\"#0F9268\",\"#10B981\",\"#34D399\",\"#6EE7B7\",\"#085C42\",\"#04412E\",\"#A7F3D0\",\"#0EA572\",\"#022C1E\"]},{\"name\":\"Slate\",\"category\":\"Solids\",\"stroke\":\"#334155\",\"fill\":\"#94A3B8\",\"bg\":\"#ffffff\",\"accents\":[\"#334155\",\"#475569\",\"#64748B\",\"#94A3B8\",\"#CBD5E1\",\"#1E293B\",\"#0F172A\",\"#E2E8F0\",\"#52617A\",\"#020617\"]},{\"name\":\"Cyberpunk\",\"category\":\"Vibrant\",\"stroke\":\"#FF007A\",\"fill\":\"#00F0FF\",\"bg\":\"#ffffff\",\"accents\":[\"#FF007A\",\"#FE00FE\",\"#00F0FF\",\"#00FFD5\",\"#FAFF00\",\"#FF9E00\",\"#B026FF\",\"#7700FF\",\"#0F3460\",\"#1A1A2E\"]},{\"name\":\"Neon\",\"category\":\"Vibrant\",\"stroke\":\"#39FF14\",\"fill\":\"#FF00FF\",\"bg\":\"#ffffff\",\"accents\":[\"#39FF14\",\"#FF00FF\",\"#00FFFF\",\"#FFFF00\",\"#FF6EC7\",\"#FE019A\",\"#04D9FF\",\"#CCFF00\",\"#FF3131\",\"#7DF9FF\"]},{\"name\":\"Synthwave\",\"category\":\"Vibrant\",\"stroke\":\"#F72585\",\"fill\":\"#7209B7\",\"bg\":\"#ffffff\",\"accents\":[\"#F72585\",\"#B5179E\",\"#7209B7\",\"#560BAD\",\"#480CA8\",\"#3A0CA3\",\"#3F37C9\",\"#4361EE\",\"#4895EF\",\"#4CC9F0\"]},{\"name\":\"Pastel\",\"category\":\"Vibrant\",\"stroke\":\"#A8DADC\",\"fill\":\"#FFC8DD\",\"bg\":\"#ffffff\",\"accents\":[\"#A8DADC\",\"#FFAFCC\",\"#FFC8DD\",\"#BDE0FE\",\"#CDB4DB\",\"#B9FBC0\",\"#FDE4CF\",\"#FBF8CC\",\"#C1D3FE\",\"#98C1D9\"]},{\"name\":\"Candy\",\"category\":\"Vibrant\",\"stroke\":\"#FF4D6D\",\"fill\":\"#FF99AC\",\"bg\":\"#ffffff\",\"accents\":[\"#FF4D6D\",\"#FF8FA3\",\"#FFB3C1\",\"#FF99AC\",\"#C9184A\",\"#FF7096\",\"#FFCCD5\",\"#A4133C\",\"#FF5C8A\",\"#590D22\"]},{\"name\":\"Tropical\",\"category\":\"Vibrant\",\"stroke\":\"#06D6A0\",\"fill\":\"#FFD166\",\"bg\":\"#ffffff\",\"accents\":[\"#06D6A0\",\"#FFD166\",\"#EF476F\",\"#118AB2\",\"#073B4C\",\"#08C18C\",\"#FFC43D\",\"#E63E62\",\"#0E7FA0\",\"#FFE08A\"]},{\"name\":\"Mono\",\"category\":\"Minimal\",\"stroke\":\"#1A1A1A\",\"fill\":\"#9E9E9E\",\"bg\":\"#ffffff\",\"accents\":[\"#1A1A1A\",\"#424242\",\"#616161\",\"#9E9E9E\",\"#BDBDBD\",\"#E0E0E0\",\"#757575\",\"#212121\",\"#505050\",\"#F5F5F5\"]},{\"name\":\"Mono Ink\",\"category\":\"Minimal\",\"stroke\":\"#1B1B1E\",\"fill\":\"#5C5C66\",\"bg\":\"#ffffff\",\"accents\":[\"#1B1B1E\",\"#3A3A40\",\"#5C5C66\",\"#8A8A94\",\"#B8B8C0\",\"#DCDCE0\",\"#F2F2F5\",\"#2B4C7E\",\"#4A6FA5\",\"#0A0A0C\"]},{\"name\":\"Blueprint\",\"category\":\"Minimal\",\"stroke\":\"#0D3B66\",\"fill\":\"#2E8BC0\",\"bg\":\"#ffffff\",\"accents\":[\"#0D3B66\",\"#1D5B8F\",\"#2E8BC0\",\"#5BC0EB\",\"#B8E1FF\",\"#9FB3C8\",\"#627D98\",\"#334E68\",\"#102A43\",\"#0A2A4A\"]},{\"name\":\"Sepia\",\"category\":\"Minimal\",\"stroke\":\"#5B4636\",\"fill\":\"#C9B79C\",\"bg\":\"#ffffff\",\"accents\":[\"#5B4636\",\"#7A5C44\",\"#9C7A5B\",\"#C9B79C\",\"#E4D5BE\",\"#3D2F22\",\"#A68A64\",\"#8B6F47\",\"#6F5742\",\"#2A1F16\"]},{\"name\":\"Grayscale\",\"category\":\"Minimal\",\"stroke\":\"#000000\",\"fill\":\"#808080\",\"bg\":\"#ffffff\",\"accents\":[\"#000000\",\"#262626\",\"#404040\",\"#595959\",\"#737373\",\"#8C8C8C\",\"#A6A6A6\",\"#BFBFBF\",\"#D9D9D9\",\"#1A1A1A\"]}]",
+        "description": "Color schemes saved by the Color Scheme Manager script. Edit via the side panel rather than here."
+      },
+      "Preset version": {
+        "value": 5,
+        "description": "Internal: which built-in preset set has been merged. Do not edit."
+      },
+      "Active scheme": {
+        "value": "Pastel",
+        "description": "Internal: the scheme last applied from the panel. Do not edit."
+      },
+      "Active category": {
+        "value": "Vibrant",
+        "description": "Internal: panel category filter."
+      }
+    }
+  },
+  "autostartScripts": {
+    "Downloaded/Slideshow": "allow"
+  },
+  "autostartScriptFailures": {},
+  "previousRelease": "2.29.0",
+  "showReleaseNotes": true,
+  "useDeclarativeSettings": true,
+  "excalidrawMasteryPromoCollapsed": false,
+  "compareManifestToPluginVersion": true,
+  "showNewVersionNotification": true,
+  "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
+  "taskboneEnabled": false,
+  "taskboneAPIkey": "",
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Printable Layout Wizard.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md"
+  ],
+  "sidepanelTabs": [],
+  "customPens": [
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "highlighter",
+      "freedrawOnly": true,
+      "strokeColor": "#FFC47C",
+      "backgroundColor": "#FFC47C",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "finetip",
+      "freedrawOnly": false,
+      "strokeColor": "#3E6F8D",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0.5,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "constantPressure": true,
+        "options": {
+          "smoothing": 0.4,
+          "thinning": -0.5,
+          "streamline": 0.4,
+          "easing": "linear",
+          "start": {
+            "taper": 5,
+            "cap": false,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 5,
+            "cap": false,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "fountain",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "smoothing": 0.2,
+          "thinning": 0.6,
+          "streamline": 0.2,
+          "easing": "easeInOutSine",
+          "start": {
+            "taper": 150,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 1,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "marker",
+      "freedrawOnly": true,
+      "strokeColor": "#B83E3E",
+      "backgroundColor": "#FF7C7C",
+      "fillStyle": "dashed",
+      "strokeWidth": 2,
+      "roughness": 3,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "thick-thin",
+      "freedrawOnly": true,
+      "strokeColor": "#CECDCC",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "thin-thick-thin",
+      "freedrawOnly": true,
+      "strokeColor": "#CECDCC",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    }
+  ],
+  "numberOfCustomPens": 0,
+  "pdfScale": 4,
+  "pdfBorderBox": true,
+  "pdfFrame": false,
+  "pdfGapSize": 20,
+  "pdfGroupPages": true,
+  "pdfLockAfterImport": true,
+  "pdfNumColumns": 1,
+  "pdfNumRows": 1,
+  "pdfDirection": "right",
+  "pdfImportScale": 0.3,
+  "gridSettings": {
+    "DYNAMIC_COLOR": true,
+    "COLOR": "#000000",
+    "OPACITY": 50,
+    "GRID_DIRECTION": {
+      "horizontal": true,
+      "vertical": true
+    }
+  },
+  "laserSettings": {
+    "DECAY_LENGTH": 50,
+    "DECAY_TIME": 1000,
+    "COLOR": "#ff0000"
+  },
+  "embeddableMarkdownDefaults": {
+    "useObsidianDefaults": false,
+    "backgroundMatchCanvas": false,
+    "backgroundMatchElement": true,
+    "backgroundColor": "#fff",
+    "backgroundOpacity": 60,
+    "borderMatchElement": true,
+    "borderColor": "#fff",
+    "borderOpacity": 0,
+    "filenameVisible": false
+  },
+  "markdownNodeOneClickEditing": false,
+  "canvasImmersiveEmbed": true,
+  "startupScriptPath": "Excalidraw/ExcalidrawStartup",
+  "aiEnabled": true,
+  "aiVerboseLogging": false,
+  "aiProviderProfiles": {
+    "Anthropic": {
+      "provider": "anthropic",
+      "apiKey": "",
+      "baseURL": "https://api.anthropic.com/v1"
+    },
+    "Google Gemini": {
+      "provider": "google",
+      "apiKey": "ex-obf:v1:AKMmqSyvMrU4uwCpJ4sBkhyEa4s+oFrZU+8K6HXeeeR35jqBP55g2V3pXAGyRdsJqyOCG94H/TihaA==",
+      "baseURL": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest"
+    },
+    "OpenAI": {
+      "provider": "openai",
+      "apiKey": "",
+      "baseURL": "https://api.openai.com/v1"
+    },
+    "OpenAI-compatible": {
+      "provider": "openai-compatible",
+      "apiKey": "",
+      "baseURL": "https://api.openai.com/v1"
+    },
+    "xAI": {
+      "provider": "xai",
+      "apiKey": "",
+      "baseURL": "https://api.x.ai/v1"
+    }
+  },
+  "aiTextModelConfigs": {
+    "claude-sonnet-4-5": {
+      "providerId": "Anthropic",
+      "model": "claude-sonnet-4-5",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "gemini-1.5-flash": {
+      "providerId": "Google Gemini",
+      "model": "gemini-1.5-flash",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest",
+      "multimodalSupport": true
+    },
+    "gpt-5-mini": {
+      "providerId": "OpenAI",
+      "model": "gpt-5-mini",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "grok-4-fast": {
+      "providerId": "xAI",
+      "model": "grok-4-fast",
+      "endpoint": "",
+      "multimodalSupport": true
+    }
+  },
+  "aiImageModelConfigs": {
+    "dall-e-2": {
+      "providerId": "OpenAI",
+      "model": "dall-e-2",
+      "supportedSizes": [
+        "256x256",
+        "512x512",
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "dall-e-3": {
+      "providerId": "OpenAI",
+      "model": "dall-e-3",
+      "supportedSizes": [
+        "1024x1024",
+        "1792x1024",
+        "1024x1792"
+      ],
+      "supportsPromptImageTransforms": false,
+      "supportsMaskImageEdits": false
+    },
+    "gemini-2.5-flash-image": {
+      "providerId": "Google Gemini",
+      "model": "gemini-2.5-flash-image",
+      "supportedSizes": [
+        "1024x1024",
+        "848x1264",
+        "1264x848",
+        "896x1200",
+        "1200x896",
+        "928x1152",
+        "1152x928",
+        "768x1376",
+        "1376x768",
+        "1584x672"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "gemini-3.1-flash-image-preview": {
+      "providerId": "Google Gemini",
+      "model": "gemini-3.1-flash-image-preview",
+      "supportedSizes": [
+        "512x512",
+        "1024x1024",
+        "2048x2048",
+        "4096x4096",
+        "424x632",
+        "848x1264",
+        "1696x2528",
+        "3392x5056",
+        "632x424",
+        "1264x848",
+        "2528x1696",
+        "5056x3392",
+        "448x600",
+        "896x1200",
+        "1792x2400",
+        "3584x4800",
+        "600x448",
+        "1200x896",
+        "2400x1792",
+        "4800x3584",
+        "464x576",
+        "928x1152",
+        "1856x2304",
+        "3712x4608",
+        "576x464",
+        "1152x928",
+        "2304x1856",
+        "4608x3712",
+        "384x688",
+        "768x1376",
+        "1536x2752",
+        "3072x5504",
+        "688x384",
+        "1376x768",
+        "2752x1536",
+        "5504x3072",
+        "792x168",
+        "1584x672",
+        "3168x1344",
+        "6336x2688",
+        "256x1024",
+        "512x2048",
+        "1024x4096",
+        "2048x8192",
+        "192x1536",
+        "384x3072",
+        "768x6144",
+        "1536x12288",
+        "1024x256",
+        "2048x512",
+        "4096x1024",
+        "8192x2048",
+        "1536x192",
+        "3072x384",
+        "6144x768",
+        "12288x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "gemini-flash-latest": {
+      "providerId": "Google Gemini",
+      "model": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest",
+      "endpoint": "",
+      "supportedSizes": [
+        "1024x1024",
+        "2048x2048",
+        "4096x4096",
+        "848x1264",
+        "1696x2528",
+        "3392x5056",
+        "1264x848",
+        "2528x1696",
+        "5056x3392",
+        "896x1200",
+        "1792x2400",
+        "3584x4800",
+        "1200x896",
+        "2400x1792",
+        "4800x3584",
+        "928x1152",
+        "1856x2304",
+        "3712x4608",
+        "1152x928",
+        "2304x1856",
+        "4608x3712",
+        "768x1376",
+        "1536x2752",
+        "3072x5504",
+        "1376x768",
+        "2752x1536",
+        "5504x3072",
+        "1584x672",
+        "3168x1344",
+        "6336x2688"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-1": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-1-mini": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1-mini",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-1.5": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1.5",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-2": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-2",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536",
+        "2048x2048"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "grok-imagine-image-pro": {
+      "providerId": "xAI",
+      "model": "grok-imagine-image-pro",
+      "supportedSizes": [
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "grok-imagine-image-quality": {
+      "providerId": "xAI",
+      "model": "grok-imagine-image-quality",
+      "supportedSizes": [
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    }
+  },
+  "aiDefaultTextModel": "gemini-1.5-flash",
+  "aiDefaultMultimodalModel": "gpt-5-mini",
+  "aiDefaultImageGenerationModel": "gemini-flash-latest",
+  "aiDefaultMaxOutgoingTokens": 0,
+  "aiDefaultMaxResponseTokens": 4096,
+  "modifierKeyConfig": {
+    "Mac": {
+      "LocalFileDragAction": {
+        "defaultAction": "image-import",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          }
+        ]
+      },
+      "WebBrowserDragAction": {
+        "defaultAction": "image-url",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          }
+        ]
+      },
+      "InternalDragAction": {
+        "defaultAction": "link",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "image-fullsize"
+          }
+        ]
+      },
+      "LinkClickAction": {
+        "defaultAction": "new-tab",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "active-pane"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "new-tab"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "new-pane"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "popout-window"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "md-properties"
+          }
+        ]
+      }
+    },
+    "Win": {
+      "LocalFileDragAction": {
+        "defaultAction": "image-import",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          }
+        ]
+      },
+      "WebBrowserDragAction": {
+        "defaultAction": "image-url",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          }
+        ]
+      },
+      "InternalDragAction": {
+        "defaultAction": "link",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "image-fullsize"
+          }
+        ]
+      },
+      "LinkClickAction": {
+        "defaultAction": "new-tab",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "active-pane"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "new-tab"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "new-pane"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "popout-window"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "md-properties"
+          }
+        ]
+      }
+    }
+  },
+  "slidingPanesSupport": false,
+  "areaZoomLimit": 1,
+  "longPressDesktop": 500,
+  "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
+  "rank": "Silver",
+  "modifierKeyOverrides": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "k"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "showSplashscreen": true,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  },
+  "disableContextMenu": false,
+  "panWithRightMouseButton": false,
+  "onceOffGPTVersionReset": true,
+  "autosave": true,
+  "isDebugMode": false
+}

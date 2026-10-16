@@ -1,0 +1,14 @@
+{
+  "birthdate": "2006-11-21",
+  "projectedLifespan": "80",
+  "calendarMode": "yearly",
+  "viewLocation": "main",
+  "confirmBeforeCreatingWeeklyNote": true,
+  "syncWithWeeklyNotes": false,
+  "syncWithJournalNotes": false,
+  "fileNamePattern": "gggg-[W]ww",
+  "fileLocation": "1_Notes/weekly-notes",
+  "weekStartDay": "monday",
+  "templatePath": "5_Template/review _ Weekly.md",
+  "openOnStartup": false
+}

@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "1_Notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "zotero_master",
+      "outputPathTemplate": "1_Notes/reference_notes/@{{citekey}}.md",
+      "imageOutputPathTemplate": "1_Notes/reference_notes/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "5_Template/zotero_master.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeOverridePath": "/home/dathoang/Documents/pdfannots2json"
+}

@@ -1,0 +1,280 @@
+{
+  "workspaces": {
+    "MMT - Ôn thi GK": {
+      "main": {
+        "id": "c42146e182bc9031",
+        "type": "split",
+        "children": [
+          {
+            "id": "8131541c32c7c01e",
+            "type": "tabs",
+            "dimension": 53.82475660639777,
+            "children": [
+              {
+                "id": "60f8172f5d04b93c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "11_Subjects/Class. Xử lý ngôn ngữ tự nhiên - INT3406.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Class. Xử lý ngôn ngữ tự nhiên - INT3406"
+                }
+              },
+              {
+                "id": "d472e8e92322a776",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "3_Assets/XLNNTN - Buổi 2 _1.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "XLNNTN - Buổi 2 _1.excalidraw"
+                }
+              }
+            ]
+          },
+          {
+            "id": "172df3afbc14c3b3",
+            "type": "tabs",
+            "dimension": 46.17524339360223,
+            "children": [
+              {
+                "id": "7a1102c1df62b51b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/601be5349e035f28",
+                    "title": "Thành phần và ứng dụng NLP - Google Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Thành phần và ứng dụng NLP - Google Gemini"
+                }
+              },
+              {
+                "id": "ef6f46b2a836f070",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3_Assets/XLNNTN - NLP/Problem set 2 - Ngram LMs.pdf",
+                    "page": 2,
+                    "left": 36,
+                    "top": 572,
+                    "zoom": 1
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Problem set 2 - Ngram LMs"
+                }
+              },
+              {
+                "id": "1a116ac7a28e0238",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3_Assets/XLNNTN - NLP/Lecture 2. N-gram LMs (1).pdf",
+                    "page": 30,
+                    "left": -23,
+                    "top": 5,
+                    "zoom": 0.6947916666666667
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 2. N-gram LMs (1)"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "93d16598f71f0171",
+        "type": "split",
+        "children": [
+          {
+            "id": "90e9e16954b16bb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e55c869fe721428",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "72a692e127ac9960",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "21d9ef05bca05231",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Hello",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 224.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0dec78ce282cec4c",
+        "type": "split",
+        "children": [
+          {
+            "id": "8f0e30b08b681982",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3cfe22fb71e28d77",
+                "type": "leaf",
+                "state": {
+                  "type": "hinote-view",
+                  "state": {},
+                  "icon": "highlighter",
+                  "title": "HiNote"
+                }
+              },
+              {
+                "id": "74bac131ca6e279f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "3_Assets/Paper/2025_10_Data_Mining_and_Knowledge_Discovery__Graph_based_Depression_Detection_from_Conversation__Submitted_25_Nov_2025___Copy_.pdf",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025_10_Data_Mining_and_Knowledge_Discovery__Graph_based_Depression_Detection_from_Conversation__Submitted_25_Nov_2025___Copy_"
+                }
+              },
+              {
+                "id": "01263cf7489e205d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "7_Categories/Thoughts.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Thoughts"
+                }
+              },
+              {
+                "id": "c6add90e407f9729",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "7_Categories/Thoughts.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Thoughts"
+                }
+              },
+              {
+                "id": "e639cad04a7d4344",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "327045b44c0d6878",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "hi-note:HiNote": false,
+          "omnisearch:Omnisearch": false
+        }
+      },
+      "active": "60f8172f5d04b93c",
+      "mtime": "2026-07-09T15:50:48+07:00"
+    }
+  },
+  "active": "MMT - Ôn thi GK"
+}

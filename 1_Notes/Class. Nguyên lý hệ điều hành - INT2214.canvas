@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e34c07c6d06bd60e","type":"file","file":"1_Notes/Quản lý Tiến trình (Processing).md","x":-1020,"y":-40,"width":400,"height":400},
+		{"id":"08f73134e9358aac","type":"file","file":"1_Notes/Quản lý Bộ nhớ trong (Memory).md","x":-453,"y":-40,"width":400,"height":400},
+		{"id":"40fe7b9ca77bdc7c","type":"file","file":"1_Notes/Quản lý Tệp (Storage).md","x":120,"y":-40,"width":400,"height":400},
+		{"id":"7238f758a18775b7","type":"text","text":"## Kernel space","x":-503,"y":-260,"width":203,"height":60,"color":"2"},
+		{"id":"2d618ddb77f1a722","type":"text","text":"***System calls***","x":-480,"y":-380,"width":158,"height":60,"color":"2"},
+		{"id":"9b5cb0a6cca18df0","type":"file","file":"1_Notes/Quản lý IO.md","x":-1080,"y":-708,"width":400,"height":400},
+		{"id":"e165736e039263e9","type":"text","text":"## User space","x":-1080,"y":-840,"width":160,"height":57,"color":"5"},
+		{"id":"0c59fc59e60965fd","type":"file","file":"3_Assets/Quản lý IO 2026-06-02 14.10.06.excalidraw.md","x":-253,"y":-858,"width":700,"height":658},
+		{"id":"e3f42f72c577a418","type":"file","file":"3_Assets/Pasted image 20260602131702.png","x":560,"y":-858,"width":823,"height":617},
+		{"id":"ed82ba9a56eb4d44","type":"text","text":"# ***NGUYÊN LÝ HỆ ĐIỀU HÀNH***","x":-712,"y":-1000,"width":412,"height":80,"color":"1"}
+	],
+	"edges":[
+		{"id":"e74f2928ec10724f","fromNode":"9b5cb0a6cca18df0","fromSide":"right","toNode":"2d618ddb77f1a722","toSide":"top"},
+		{"id":"b3b56ce420305889","fromNode":"7238f758a18775b7","fromSide":"bottom","toNode":"e34c07c6d06bd60e","toSide":"top"},
+		{"id":"d53571a9c9d7de81","fromNode":"7238f758a18775b7","fromSide":"bottom","toNode":"08f73134e9358aac","toSide":"top"},
+		{"id":"174d3005cefc60c9","fromNode":"e165736e039263e9","fromSide":"left","toNode":"9b5cb0a6cca18df0","toSide":"left"},
+		{"id":"d353733761e55998","fromNode":"7238f758a18775b7","fromSide":"bottom","toNode":"40fe7b9ca77bdc7c","toSide":"top"},
+		{"id":"baad076d493cb291","fromNode":"2d618ddb77f1a722","fromSide":"bottom","toNode":"7238f758a18775b7","toSide":"top"}
+	]
+}

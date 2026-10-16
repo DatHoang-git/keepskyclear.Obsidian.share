@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "c42146e182bc9031",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0a10aaf902ec20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9713bd18d69f4e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d16598f71f0171",
+    "type": "split",
+    "children": [
+      {
+        "id": "62521ca0a9e86cd7",
+        "type": "tabs",
+        "dimension": 50.60386473429952,
+        "children": [
+          {
+            "id": "188229e0826bd688",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae0768f1ccff195b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "04b8ed3569186a32",
+        "type": "tabs",
+        "dimension": 49.39613526570048,
+        "children": [
+          {
+            "id": "488b31697bf491ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.0723876953125
+  },
+  "right": {
+    "id": "0dec78ce282cec4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c911a9b541a77dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec36ec17fc48c45b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1_Notes/Các khái niệm chung trong ML.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1066683242967739,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          },
+          {
+            "id": "b88630a33c71087b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7e3cb2fa70a2f128",
+            "type": "leaf",
+            "state": {
+              "type": "hinote-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "hinote-view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.421875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "hi-note:HiNote": false,
+      "life-in-weeks-calendar:Open life in weeks calendar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "9713bd18d69f4e67",
+  "lastOpenFiles": [
+    "1_Notes/Class. Nguyên lý hệ điều hành - INT2214.canvas",
+    "1_Notes/Quản lý Bộ nhớ trong (Memory).md",
+    "3_Assets/Quản lý Bộ nhớ trong 2026-05-21 14.33.56.excalidraw.md",
+    "3_Assets/Quản lý Bộ nhớ trong (Memory) 2026-06-07 14.09.23.excalidraw.md",
+    "11_Subjects/Class. Nguyên lý hệ điều hành - INT2214.md",
+    "1_Notes/Class. Công nghệ phần mềm - INT2208.canvas",
+    "1_Notes/Các mô hình phát triển phần mềm CƠ BẢN.md",
+    "11_Subjects/Class. Công nghệ phần mềm - INT2208.md",
+    "1_Notes/Super User's Manual.md",
+    "README.md",
+    "1_Notes/Quản lý Tiến trình (Processing).md",
+    "11_Subjects/Class. Mạng máy tính - INT2213.md",
+    "1_Notes/User's Manual.md",
+    "1_Notes/1_Tim_kiem.md",
+    "1_Notes/2526.ob/K-means clustering.md",
+    "1_Notes/2526.ob/Bag of words.md",
+    "1_Notes/Class. Mạng máy tính - INT2213.canvas",
+    "1_Notes/TẦNG GIAO VẬN.md",
+    "1_Notes/TẦNG LIÊN KẾT DỮ LIỆU VÀ MẠNG LAN - LINK LAYER.md",
+    "3_Assets/Super User's Manual .excalidraw.md",
+    "9_Projects/ConnectX - Bài giữa kì môn AI.md",
+    "1_Notes/ConnectX - Bài giữa kì môn AI.canvas",
+    "1_Notes/TẦNG MẠNG (NETWORK) - DATA PLANE.md",
+    "1_Notes/TẦNG ỨNG DỤNG.md",
+    "11_Subjects/Class. Xử lý ngôn ngữ tự nhiên - INT3406.md",
+    "11_Subjects/Class. Trí tuệ nhân tạo - INT3401.md",
+    "11_Subjects/Class. Tín hiệu và hệ thống - ELT2035.md",
+    "11_Subjects/Class. Hệ quản trị cơ sở dữ liệu - INT3202 1.md",
+    "13_Agents/viz/viz-kubernetes-seaweedfs-flows-1791083838099.png",
+    "7_Categories/Class.md",
+    "3_Assets/Pasted image 20261015125800.png",
+    "3_Assets/Pasted image 20261015125742.png",
+    "3_Assets/Pasted image 20261015120616.png",
+    "3_Assets/Paper/Zotero/storage/Y6LSMN7G",
+    "3_Assets/Paper/Zotero/llm-for-zotero-index.sqlite-journal",
+    "3_Assets/Paper/Zotero/book/Xie et al. - 2025 - K-hop Hypergraph Neural Network A Comprehensive Aggregation Approach.pdf",
+    "3_Assets/Paper/Zotero/storage/UEXVVFCC/Xie et al. - 2025 - K-hop Hypergraph Neural Network A Comprehensive Aggregation Approach.pdf",
+    "3_Assets/Paper/Zotero/storage/UEXVVFCC",
+    "3_Assets/Paper/Zotero/storage/tmp-QuWDY2/Xie et al. - 2025 - K-hop Hypergraph Neural Network A Comprehensive Aggregation Approach.pdf",
+    "3_Assets/Paper/Zotero/storage/tmp-QuWDY2",
+    "3_Assets/Pasted Image 20251104144529_285.png",
+    "3_Assets/Pasted image 20251104144522.png",
+    "3_Assets/Pasted Image 20251104144428_534.png",
+    "3_Assets/Pasted image 20251104144420.png",
+    "3_Assets/Pasted image 20251104143621.png",
+    "3_Assets/Pasted Image 20251104140130_443.png",
+    "3_Assets/ML/Lecture 6_Classification_SVM.pdf",
+    "3_Assets/ML/Unconfirmed 307648.crdownload",
+    "3_Assets/ML/HW_05.pdf",
+    "1_Notes/Artificial Intelligent - Trí khôn nhân tạo.canvas",
+    "1_Notes/Hypergraph.canvas",
+    "1_Notes/Upskil '26.canvas",
+    "1_Notes/Thinking about my Paths.canvas",
+    "1_Notes/Class. Tín hiệu và hệ thống - ELT2035.canvas",
+    "1_Notes/eRiskT2 canvas.canvas"
+  ]
+}

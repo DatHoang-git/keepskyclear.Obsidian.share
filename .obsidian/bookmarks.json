@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1770952510269,
+      "path": "13_Management/In progress.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1787924181653,
+      "path": "9_Projects/Conversational Hypergraph Research.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1787913637203,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1792126057894,
+          "path": "11_Subjects/Class. Mạng máy tính - INT2213.md",
+          "title": "Mạng máy tính"
+        },
+        {
+          "type": "file",
+          "ctime": 1792126015414,
+          "path": "11_Subjects/Class. Công nghệ phần mềm - INT2208.md",
+          "title": "CNPM"
+        },
+        {
+          "type": "file",
+          "ctime": 1788143522683,
+          "path": "11_Subjects/Class. Khai phá dữ liệu - INT3209E 3.md",
+          "title": "Khai phá dữ liệu"
+        },
+        {
+          "type": "file",
+          "ctime": 1788143638326,
+          "path": "11_Subjects/Class. Học máy + Machine learning.md",
+          "title": "Học máy"
+        },
+        {
+          "type": "file",
+          "ctime": 1788143731981,
+          "path": "11_Subjects/Class. Hệ quản trị cơ sở dữ liệu - INT3202 1.md",
+          "title": "DBMS"
+        },
+        {
+          "type": "file",
+          "ctime": 1788143886777,
+          "path": "11_Subjects/Class. Kỹ thuật và công nghệ dữ liệu lớn - INT3229 1.md",
+          "title": "BigData"
+        },
+        {
+          "type": "file",
+          "ctime": 1788143965479,
+          "path": "11_Subjects/Class. Trí tuệ kinh doanh - INT3225 1.md",
+          "title": "Trí tuệ kinh doanh"
+        },
+        {
+          "type": "file",
+          "ctime": 1792126068830,
+          "path": "11_Subjects/Class. Nguyên lý hệ điều hành - INT2214.md",
+          "title": "OS"
+        },
+        {
+          "type": "file",
+          "ctime": 1792126110231,
+          "path": "11_Subjects/Class. Tín hiệu và hệ thống - ELT2035.md",
+          "title": "Tín hiệu hệ thống"
+        }
+      ],
+      "title": "School"
+    },
+    {
+      "type": "group",
+      "ctime": 1787924193433,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1787913584002,
+          "path": "1_Notes/Textbook - Sách giáo khoa cá nhân.md",
+          "title": "Textbook"
+        },
+        {
+          "type": "file",
+          "ctime": 1786333529353,
+          "path": "9_Projects/Upskil '26.md"
+        }
+      ],
+      "title": "Skill"
+    }
+  ]
+}

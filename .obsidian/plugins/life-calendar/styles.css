@@ -1,0 +1,333 @@
+.life-calendar-container {
+  width: 100%;
+}
+
+.life-calendar {
+  --life-calendar-cell-min-size: 0.38rem;
+  --life-calendar-cell-gap: clamp(0.05rem, 0.18vw, 0.12rem);
+  --life-calendar-label-width: 1.8rem;
+  --life-calendar-grid-max-width: 52rem;
+  --life-calendar-phase-palette-0: #4f6fb5;
+  --life-calendar-phase-palette-1: #2f8f72;
+  --life-calendar-phase-palette-2: #b8792f;
+  --life-calendar-phase-palette-3: #7a5aa6;
+  --life-calendar-phase-palette-4: #b75c7a;
+  --life-calendar-phase-palette-5: #2f7f8f;
+  --life-calendar-phase-palette-6: #8f7330;
+  --life-calendar-phase-palette-7: #6f8136;
+  --life-calendar-phase-palette-8: #b05f42;
+  --life-calendar-phase-palette-9: #4d7fb8;
+  --life-calendar-phase-palette-10: #8b638b;
+  --life-calendar-phase-palette-11: #5f7f5f;
+  color: var(--text-normal);
+}
+
+.theme-dark .life-calendar {
+  --life-calendar-phase-palette-0: #8aadf4;
+  --life-calendar-phase-palette-1: #8bd5ca;
+  --life-calendar-phase-palette-2: #eed49f;
+  --life-calendar-phase-palette-3: #c6a0f6;
+  --life-calendar-phase-palette-4: #f5bde6;
+  --life-calendar-phase-palette-5: #91d7e3;
+  --life-calendar-phase-palette-6: #f0c674;
+  --life-calendar-phase-palette-7: #a6da95;
+  --life-calendar-phase-palette-8: #f5a97f;
+  --life-calendar-phase-palette-9: #7dc4e4;
+  --life-calendar-phase-palette-10: #d4a6c8;
+  --life-calendar-phase-palette-11: #b7d3a8;
+}
+
+.life-calendar-phase-palette-0 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-0); }
+.life-calendar-phase-palette-1 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-1); }
+.life-calendar-phase-palette-2 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-2); }
+.life-calendar-phase-palette-3 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-3); }
+.life-calendar-phase-palette-4 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-4); }
+.life-calendar-phase-palette-5 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-5); }
+.life-calendar-phase-palette-6 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-6); }
+.life-calendar-phase-palette-7 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-7); }
+.life-calendar-phase-palette-8 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-8); }
+.life-calendar-phase-palette-9 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-9); }
+.life-calendar-phase-palette-10 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-10); }
+.life-calendar-phase-palette-11 { --life-calendar-phase-colour: var(--life-calendar-phase-palette-11); }
+
+.life-calendar-header {
+  margin-block-end: 0.75rem;
+}
+
+.life-calendar-header h3 {
+  margin: 0 0 0.35rem 0;
+}
+
+.life-calendar-meta,
+.life-calendar-legend,
+.life-calendar-category-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.85rem;
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+}
+
+.life-calendar-meta span:not(:last-child)::after {
+  content: "";
+}
+
+.life-calendar-category-controls {
+  align-items: center;
+  margin-block: 0.7rem 0.35rem;
+}
+
+.life-calendar-category-controls-label {
+  color: var(--text-faint);
+}
+
+.life-calendar-category-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.life-calendar-category-toggle input {
+  margin: 0;
+}
+
+.life-calendar-legend {
+  align-items: center;
+  margin-block: 0.75rem;
+}
+
+.life-calendar-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  white-space: nowrap;
+}
+
+.life-calendar-legend-swatch {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0.15rem;
+  background: var(--background-secondary);
+}
+
+.life-calendar-legend-completed .life-calendar-legend-swatch {
+  background: var(--text-muted);
+  opacity: 0.55;
+}
+
+.life-calendar-legend-current .life-calendar-legend-swatch {
+  background: var(--background-secondary);
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 1px;
+}
+
+.life-calendar-legend-phase .life-calendar-legend-swatch {
+  background: color-mix(in srgb, var(--life-calendar-phase-colour) 32%, var(--background-primary));
+  border-color: var(--life-calendar-phase-colour);
+}
+
+.life-calendar-legend-event .life-calendar-legend-swatch {
+  position: relative;
+  background: var(--background-secondary);
+}
+
+.life-calendar-legend-event .life-calendar-legend-swatch::after {
+  content: "";
+  position: absolute;
+  width: 0.3rem;
+  height: 0.3rem;
+  border-radius: 999px;
+  right: 0.08rem;
+  bottom: 0.08rem;
+  background: var(--interactive-accent);
+}
+
+.life-calendar-grid {
+  overflow-x: visible;
+  padding-block: 0.25rem 0.5rem;
+  max-width: var(--life-calendar-grid-max-width);
+}
+
+.life-calendar-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) var(--life-calendar-label-width);
+  align-items: center;
+  gap: 0.35rem;
+  width: 100%;
+}
+
+.life-calendar-row + .life-calendar-row {
+  margin-top: var(--life-calendar-cell-gap);
+}
+
+.life-calendar-row.life-calendar-decade-start {
+  margin-top: calc(0.45rem + var(--life-calendar-cell-gap));
+}
+
+.life-calendar-age-label {
+  color: var(--text-faint);
+  font-size: var(--font-ui-smaller);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.life-calendar-age-label-right {
+  text-align: left;
+}
+
+.life-calendar-weeks {
+  display: grid;
+  grid-template-columns: repeat(var(--life-calendar-weeks), minmax(0, 1fr));
+  gap: var(--life-calendar-cell-gap);
+  width: 100%;
+  min-width: 0;
+}
+
+.life-calendar-week {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  min-height: var(--life-calendar-cell-min-size);
+  aspect-ratio: 1 / 1;
+  padding: 0;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0.12rem;
+  background: var(--background-secondary);
+  appearance: none;
+  font: inherit;
+}
+
+button.life-calendar-week,
+.markdown-rendered button.life-calendar-week {
+  display: block;
+  cursor: pointer;
+  height: auto;
+  min-height: var(--life-calendar-cell-min-size);
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border-radius: 0.12rem;
+  box-shadow: none;
+  line-height: 0;
+  color: transparent;
+}
+
+button.life-calendar-week:hover,
+button.life-calendar-week:focus-visible {
+  transform: scale(1.35);
+  z-index: 2;
+  outline: 1px solid var(--interactive-accent);
+  outline-offset: 1px;
+}
+
+.life-calendar-week.has-phase {
+  border-color: color-mix(in srgb, var(--life-calendar-phase-colour) 76%, var(--background-modifier-border));
+  background: color-mix(in srgb, var(--life-calendar-phase-colour) 28%, var(--background-primary));
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--life-calendar-phase-colour) 24%, transparent);
+}
+
+.life-calendar-week.is-completed {
+  border-color: color-mix(in srgb, var(--text-muted) 34%, var(--background-primary));
+  background: color-mix(in srgb, var(--text-muted) 64%, var(--background-primary));
+  opacity: 0.5;
+}
+
+.life-calendar-week.is-completed.has-phase {
+  border-color: color-mix(in srgb, var(--life-calendar-phase-colour) 86%, var(--background-primary));
+  background: color-mix(in srgb, var(--life-calendar-phase-colour) 58%, var(--background-primary));
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--life-calendar-phase-colour) 72%, var(--background-primary));
+  opacity: 0.9;
+}
+
+.theme-dark .life-calendar-week.is-completed.has-phase {
+  background: color-mix(in srgb, var(--life-calendar-phase-colour) 44%, var(--background-primary));
+  opacity: 0.95;
+}
+
+.life-calendar-week.is-category-hidden.has-phase {
+  border-color: var(--background-modifier-border);
+  background: var(--background-secondary);
+  box-shadow: none;
+  opacity: 1;
+}
+
+.life-calendar-week.is-category-hidden.is-completed.has-phase {
+  border-color: color-mix(in srgb, var(--text-muted) 34%, var(--background-primary));
+  background: color-mix(in srgb, var(--text-muted) 64%, var(--background-primary));
+  box-shadow: none;
+  opacity: 0.5;
+}
+
+.life-calendar-legend-item.is-category-hidden {
+  opacity: 0.35;
+  text-decoration: line-through;
+}
+
+.life-calendar-week.is-current {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 1px;
+  z-index: 1;
+}
+
+.life-calendar-week.has-event::after {
+  content: "";
+  position: absolute;
+  width: 0.28rem;
+  height: 0.28rem;
+  right: 0.02rem;
+  bottom: 0.02rem;
+  border-radius: 999px;
+  background: var(--interactive-accent);
+  box-shadow: 0 0 0 1px var(--background-primary);
+}
+
+.life-calendar-week.has-multiple-events::before {
+  content: "";
+  position: absolute;
+  width: 0.28rem;
+  height: 0.28rem;
+  left: 0.02rem;
+  top: 0.02rem;
+  border-radius: 999px;
+  background: var(--text-accent-hover);
+  box-shadow: 0 0 0 1px var(--background-primary);
+}
+
+.life-calendar-setup,
+.life-calendar-error {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  padding: 1rem;
+  background: var(--background-secondary);
+}
+
+.life-calendar-setup h3,
+.life-calendar-error strong {
+  display: block;
+  margin-block: 0 0.5rem;
+}
+
+.life-calendar-setup pre {
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
+
+@media (max-width: 700px) {
+  .life-calendar {
+    --life-calendar-cell-min-size: 0.3rem;
+    --life-calendar-cell-gap: clamp(0.035rem, 0.16vw, 0.08rem);
+    --life-calendar-label-width: 1.4rem;
+    --life-calendar-grid-max-width: 100%;
+  }
+
+  .life-calendar-meta,
+  .life-calendar-legend,
+  .life-calendar-category-controls {
+    gap: 0.25rem 0.55rem;
+  }
+}

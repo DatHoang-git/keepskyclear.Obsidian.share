@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": true,
+  "primary-theme@@zero-popup-popdown": true,
+  "primary-theme@@zero-tab-anim": true,
+  "soft-paper-dark-settings@@sp-rainbow-folders": false,
+  "soft-paper-dark-settings@@sp-settings-transparent-80": false,
+  "soft-paper-dark-settings@@sp-status-bar-blue": false,
+  "soft-paper-dark-settings@@sp-hide-scrollbars": false,
+  "soft-paper-dark-settings@@sp-hide-add-property": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-old-default",
+  "Appearance-light@@accent-light": "#628AEB",
+  "Appearance-dark@@card-layout-open-dark": true
+}

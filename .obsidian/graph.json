@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-file:\".excalidraw\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"category\":Skill]",
+      "color": {
+        "a": 1,
+        "rgb": 8380801
+      }
+    },
+    {
+      "query": "[\"category\":Class]",
+      "color": {
+        "a": 1,
+        "rgb": 5026268
+      }
+    },
+    {
+      "query": "[\"category\":Lab]",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "[\"category\":Review]",
+      "color": {
+        "a": 1,
+        "rgb": 11359923
+      }
+    },
+    {
+      "query": "[\"category\":Life]",
+      "color": {
+        "a": 1,
+        "rgb": 15826558
+      }
+    },
+    {
+      "query": "[\"tags\":reference/paper]",
+      "color": {
+        "a": 1,
+        "rgb": 16775199
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.17273090231568,
+  "lineSizeMultiplier": 2.06308668263686,
+  "collapse-forces": false,
+  "centerStrength": 0.485804276461716,
+  "repelStrength": 10.0567828941531,
+  "linkStrength": 1,
+  "linkDistance": 149,
+  "scale": 0.3571098600664848,
+  "close": false
+}

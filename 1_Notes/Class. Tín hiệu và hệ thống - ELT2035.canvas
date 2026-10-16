@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"cddd59254329b2cc","type":"group","x":200,"y":-440,"width":1020,"height":1160,"label":"3 CÁCH biểu diễn hệ thống"},
+		{"id":"00f1bb2fb84f6ad5","type":"group","x":300,"y":-280,"width":847,"height":340,"label":"Miền thời gian"},
+		{"id":"b0316d857bdcfe05","type":"group","x":300,"y":440,"width":847,"height":140,"label":"Miền tần số"},
+		{"id":"a849486057788999","type":"file","file":"1_Notes/Giới thiệu về Tín hiệu.md","x":-300,"y":-220,"width":380,"height":205},
+		{"id":"8a8460b21a852e74","type":"file","file":"1_Notes/Giới thiệu về hệ thống.md","x":-300,"y":380,"width":380,"height":200},
+		{"id":"1aa0168245e2db5e","type":"text","text":"# ***TÍN HIỆU VÀ HỆ THỐNG***","x":-640,"y":110,"width":220,"height":100,"color":"1"},
+		{"id":"152358a11a50f089","type":"text","text":"# <-- Liên tục | Rời rạc -->","x":559,"y":-400,"width":330,"height":60},
+		{"id":"210a64e10105f36d","type":"text","text":"## 1. ***PT toán học***","x":320,"y":-260,"width":807,"height":50},
+		{"id":"191aeaf704565571","type":"text","text":"#### ***PT Vi phân***","x":320,"y":-165,"width":333,"height":50},
+		{"id":"c682f82bdf4191c6","type":"text","text":"## 2. ***Đáp ứng xung***","x":320,"y":-40,"width":807,"height":50},
+		{"id":"e0de08bb1d492f2f","type":"text","text":"#### ***PT Sai phân***","x":783,"y":-165,"width":305,"height":50},
+		{"id":"6d49b0c3344d814d","type":"file","file":"1_Notes/Biểu diễn hệ thống rời rạc trong miền thời gian.md","x":1414,"y":-15,"width":344,"height":225},
+		{"id":"a9c42306556ff396","type":"file","file":"1_Notes/Biểu diễn hệ thống liên tục trong miền thời gian.md","x":1414,"y":-323,"width":344,"height":223},
+		{"id":"34093ed7322792ba","type":"file","file":"1_Notes/Biến đổi Laplace.md","x":300,"y":220,"width":259,"height":140},
+		{"id":"e445d96ebc681e9e","type":"file","file":"1_Notes/Biểu diễn Fourier.md","x":594,"y":245,"width":260,"height":115},
+		{"id":"479054eeb42339fd","type":"file","file":"1_Notes/Biến đổi Z.md","x":935,"y":220,"width":265,"height":140},
+		{"id":"c92de42204fcdd84","type":"text","text":"## 3. ***Hàm truyền miền Phức / Tần số***","x":320,"y":480,"width":807,"height":50},
+		{"id":"64d3e593bee0e5aa","type":"text","text":"# <-- Liên tục | Rời rạc -->","x":559,"y":640,"width":330,"height":60}
+	],
+	"edges":[
+		{"id":"75b464b5f37e26c3","fromNode":"1aa0168245e2db5e","fromSide":"right","toNode":"a849486057788999","toSide":"left","color":"1"},
+		{"id":"c8a3665b0178d757","fromNode":"1aa0168245e2db5e","fromSide":"right","toNode":"8a8460b21a852e74","toSide":"left","color":"1"},
+		{"id":"766c66dcefdcd737","fromNode":"a849486057788999","fromSide":"bottom","toNode":"8a8460b21a852e74","toSide":"top","label":"là input / output / noise\ncủa"},
+		{"id":"923a3029be6e8372","fromNode":"8a8460b21a852e74","fromSide":"right","toNode":"cddd59254329b2cc","toSide":"left","label":"các cách\nbiểu diễn hệ thống"},
+		{"id":"9c900f409d0d1140","fromNode":"00f1bb2fb84f6ad5","fromSide":"bottom","toNode":"e445d96ebc681e9e","toSide":"top","label":"lưỡng tính"},
+		{"id":"bd9c9f51f2823127","fromNode":"e445d96ebc681e9e","fromSide":"bottom","toNode":"b0316d857bdcfe05","toSide":"top"},
+		{"id":"6302b2a1dd6a2ee4","fromNode":"00f1bb2fb84f6ad5","fromSide":"bottom","toNode":"34093ed7322792ba","toSide":"top","label":"liên tục"},
+		{"id":"c67cb9d92912ca3c","fromNode":"34093ed7322792ba","fromSide":"bottom","toNode":"b0316d857bdcfe05","toSide":"top"},
+		{"id":"2b1d64413141d495","fromNode":"152358a11a50f089","fromSide":"bottom","toNode":"64d3e593bee0e5aa","toSide":"top"},
+		{"id":"e10736db5bc01cb2","fromNode":"00f1bb2fb84f6ad5","fromSide":"bottom","toNode":"479054eeb42339fd","toSide":"top","label":"rời rạc"},
+		{"id":"d231cdd8b8d85a47","fromNode":"479054eeb42339fd","fromSide":"bottom","toNode":"b0316d857bdcfe05","toSide":"top"},
+		{"id":"f129092568d34588","fromNode":"00f1bb2fb84f6ad5","fromSide":"right","toNode":"a9c42306556ff396","toSide":"left","color":"5","label":"học ở"},
+		{"id":"7b5c4b53d519387b","fromNode":"00f1bb2fb84f6ad5","fromSide":"right","toNode":"6d49b0c3344d814d","toSide":"left","color":"5"},
+		{"id":"a81e8fa1de342d91","fromNode":"210a64e10105f36d","fromSide":"bottom","toNode":"191aeaf704565571","toSide":"right"},
+		{"id":"1ce394df3701ac13","fromNode":"210a64e10105f36d","fromSide":"bottom","toNode":"e0de08bb1d492f2f","toSide":"left"}
+	]
+}

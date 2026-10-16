@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "1_Notes/reference_notes",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\ncreated: {{date}}\ntags:\n  - \"paper\"\ncategory:\n  - \"[[Lab]]\"\n  - \"[[Reference]]\"\nauthor: {{authorString}}\nyear: {{year}}\nurl: {{URL}}\nsubject:\nproject:\nrating:\n---\n---\n",
+  "markdownCitationTemplate": "[[@{{citekey}}]]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/mnt/lamviec/keepskyclear.Obsidian/3_Assets/Paper/Zotero/My Library.json"
+}
